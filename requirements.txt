@@ -1,1 +1,2 @@
+#requirements for playing this game: Pygame 2.6.0
 pygame==2.6.0
